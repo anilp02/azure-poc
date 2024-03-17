@@ -5,6 +5,7 @@
 
 trigger:
 - master
+- azure-poc
 
 pool:
   vmImage: ubuntu-latest
